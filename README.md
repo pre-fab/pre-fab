@@ -12,7 +12,7 @@ Currently, I work at the front end of a game development company.
 ## Highlights
 - [Reversing.kr](http://reversing.kr/) Score at **4220**
 - Reverse engineering/game hacking experience.
-- Using ngui, ugui unity game development experience.
+- Using NGUI, UGUI unity game development experience.
 
 ## Experience
 - BanG Dream! Girls Band Party! 🇰🇷
